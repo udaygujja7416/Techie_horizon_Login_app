@@ -55,7 +55,7 @@ service is not starting?
  - make sure you are trying to start service with nexus user. 
 - check java installation
 
-Unable to access nexus URL?
+Unable to access nexus URL?.
 - make sure port 8081 is opened in security group. 
 
 ### Next Steps
@@ -63,5 +63,6 @@ Unable to access nexus URL?
 - [x] [Secure your Jenkins Server](https://youtu.be/19FmJumnkDc)
 - [x] [Jenkins Plugin Installation](https://youtu.be/p_PqPBbjaZ4)
 - [x] [Jenkins Master-Slave Configuration](https://youtu.be/hwrYURP4O2k).
+
 
 
