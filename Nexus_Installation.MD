@@ -6,7 +6,7 @@ Nexus is one a artifact repository which helps to store your build outcomes.
 
 1. EC2 instance with java 
 
-### Implementation steps.
+### Implementation steps
 
 Download and setup nexus stable version
 ```sh 
@@ -63,6 +63,7 @@ Unable to access nexus URL?.
 - [x] [Secure your Jenkins Server](https://youtu.be/19FmJumnkDc)
 - [x] [Jenkins Plugin Installation](https://youtu.be/p_PqPBbjaZ4)
 - [x] [Jenkins Master-Slave Configuration](https://youtu.be/hwrYURP4O2k).
+
 
 
 
